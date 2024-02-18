@@ -1,0 +1,9 @@
+{
+  "name": "output-app",
+  "version": "0.1.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "parcel src/index.html node src/index.js"
+  }
+}
