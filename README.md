@@ -1,6 +1,5 @@
 To run
 
 **COMMAND:**
-mkdir packages
-mkdir output-app
+mkdir packages/output-app
 npm start
